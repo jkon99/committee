@@ -1,0 +1,25 @@
+{
+  "name": "committee",
+  "version": "1.0.0",
+  "description": "A chat app made by CCCE Studios in Electron and React",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkon99/committee.git"
+  },
+  "keywords": [
+    "chat",
+    "group",
+    "app",
+    "committee"
+  ],
+  "author": "Jonathan Konopka, Nahom Zerzghi, Fernando Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkon99/committee/issues"
+  },
+  "homepage": "https://github.com/jkon99/committee#readme"
+}
