@@ -7,3 +7,6 @@ Intended to work in browser, utilizes Electron and React
 Plans to port to Android/IOS
 
 yuh im here broooski
+
+
+gang
